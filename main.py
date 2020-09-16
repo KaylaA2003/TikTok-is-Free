@@ -1,3 +1,3 @@
-print("Hello world");
-print("I like pizza");
-print("When I grow up");
+print("awww she passed away");
+print("Its a avacado");
+print("Its a baby penguin....");
